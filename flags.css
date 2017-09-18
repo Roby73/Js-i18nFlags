@@ -2,6 +2,7 @@
 .countryIcon {
 	background-image: url('images/flags.png');
 	background-repeat:no-repeat;
+	display: inline-block;
 }
 
 select.icon-menu option.countryIcon {
