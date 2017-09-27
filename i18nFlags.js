@@ -2,8 +2,6 @@
  * URMET Sistemi S.p.A. 
  * i18nFlags.js
  *
- * web-1.0.0:it.urmet.web.js.appl
- *
  * Copyright (c) Urmet Sistemi S.p.A.
  * all rights reserved.
  *
